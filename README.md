@@ -3,6 +3,7 @@
 When creating online advertisements, deciding whether the ads are suitable for the target audience requires getting back to the old data. Using the history of user clicks, user clicks on ads can be predicted.
 
 The dataset contains the following features:
+
 -'Daily Time Spent on Site': consumer time on site in minutes
 
 -'Age': cutomer age in years
